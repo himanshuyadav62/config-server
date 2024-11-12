@@ -1,1 +1,2 @@
-message : bootstrap
+message : config-server.yml
+value : none
